@@ -1,4 +1,4 @@
-# LobSter API
+# 🦞LobSter API
 Pipeline configurado:
 ![CI Status]
 
