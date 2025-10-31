@@ -34,19 +34,25 @@ O objetivo é criar um módulo complementar ao site do semestre anterior, permit
 O projeto utiliza containers Docker para padronizar o ambiente da aplicação e do banco de dados.
 
 Como fazer funcionar localmente:
+-
 1️⃣ Entrar na pasta do projeto
+-
 cd /caminho para seu projeto
 
 2️⃣ Instalar dependências do Node.js
+-
 npm install
 
 3️⃣ Instalar TypeScript globalmente (opcional, mas recomendado)
+-
 npm install -g typescript
 
 4️⃣ Rodar o servidor em modo de desenvolvimento
+-
 npm run dev
 
 5️⃣ Acessar Swagger no navegador (Acesso da URL da api)
+-
 Abra: http://localhost:3001/api-docs
 
 
