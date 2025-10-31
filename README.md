@@ -1,6 +1,6 @@
 # LobSter API
 Pipeline configurado:
-![CI Status](https://github.com/VinihEsperanca/LobsterAPI2/workflows/CI%20Pipeline/badge.svg)
+![CI Status]
 
 
 ## 📘 Descrição do Projeto
